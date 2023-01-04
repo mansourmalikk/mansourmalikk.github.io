@@ -1,0 +1,93 @@
+.firstRow {
+    background-color: red;
+}
+
+#home {
+    background-color: green;
+    color: aliceblue;
+}
+
+#secondrowparagraph {
+    color: Green;
+    display: inline;
+}
+#fispace{background-color: aliceblue;}
+
+#margintable {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.lorem {
+    background-color: green;
+    color: aliceblue;
+    margin-bottom: 0;
+}
+
+.loremblue {
+    color: white;
+    background-color: rgb(23, 133, 148);
+}
+
+.unlist {
+    list-style: inside;
+}
+
+.bgcolor {
+    background-color: red;
+}
+
+.loremparagraph {
+    background-color: gray;
+    color: white;
+}
+
+.loremh5 {
+    color: white;
+    background-color: lightblue;
+}
+
+.greencolor {
+    color: green;
+}
+
+.readmore {
+    padding: 10px;
+    border: 1px solid;
+    background-color: black;
+    color: white;
+    width: fit-content;
+}
+
+
+.graybg {
+    background-color: gray;
+}
+
+body {
+    background-color: aqua;
+}
+
+
+
+.whiteandgreen {
+    color: white;
+    background-color: green;
+    font-size: 40px;
+}
+
+.bggray {
+    background-color: gray;
+    color: white;
+}
+
+h4 {
+    color: green;
+}
+
+.alicecolor {
+    color: aliceblue;
+}
+
+h6{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
